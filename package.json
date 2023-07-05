@@ -1,6 +1,6 @@
 {
   "name": "jng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert url types - png -> jpg / jpg -> png",
   "main": "index.js",
   "scripts": {
