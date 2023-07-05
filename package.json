@@ -1,0 +1,22 @@
+{
+  "name": "jng",
+  "version": "1.0.0",
+  "description": "Convert url types - png -> jpg / jpg -> png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "png",
+    "jpg",
+    "convert",
+    "url"
+  ],
+  "author": "Kurizu",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.37.3",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
