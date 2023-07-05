@@ -85,7 +85,7 @@ jng.init({
     api_secret: process.env.API_SECRET
 });
 
-// Init function is used to setup the bot token and the channel id where the images will be sent
+// Init function is used to setup the cloudinary server
 
 jng.upload('tests/test.json', 'kurizu', 'png', 'anime').then(url => {
     console.log(url);
