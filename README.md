@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/crizmo/JNG">
-    <img src="https://cdn.discordapp.com/attachments/1126205512212553818/1126205549806104576/jng.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/1126205512212553818/1126209597972164728/jngpfp.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">JNG</h3>
