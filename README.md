@@ -13,7 +13,7 @@
     <a href="https://www.npmjs.com/package/jng"><img src="https://img.shields.io/npm/l/jng?style=for-the-badge" /></a>
   </p>
   <p align="center">
-    Convert images to urls
+    Convert .jpg urls to .png urls and vice versa
     <br />
     <a href="https://github.com/crizmo/JNG"><strong>Explore the docs »</strong></a>
     <br />
