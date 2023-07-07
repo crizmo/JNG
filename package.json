@@ -1,6 +1,6 @@
 {
   "name": "jng",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Converts .jpg urls to .png urls and vice versa.",
   "main": "index.js",
   "scripts": {
